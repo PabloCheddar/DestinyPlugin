@@ -1,0 +1,11 @@
+name: DestinyPlugin
+version: '${project.version}'
+main: de.allwetterjacke.destinyplugin.DestinyPlugin
+api-version: 1.19
+commands:
+  home:
+  help:
+  sell:
+  shop:
+  bounty:
+  transfer:

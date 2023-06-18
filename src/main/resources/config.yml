@@ -1,0 +1,13 @@
+locations:
+  arena:
+    x:
+    y:
+    z:
+shop:
+  items:
+    0:
+      material: DIAMOND
+      price: 100.0
+    1:
+      material: ELYTRA
+      price: 1000.0
